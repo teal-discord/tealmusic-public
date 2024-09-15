@@ -1,0 +1,7 @@
+node_modules/
+yarn.lock
+logs/*
+.env
+src/config.js
+package-lock.json
+engine.js
