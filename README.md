@@ -110,24 +110,6 @@ BOT_ERRORS=webhook
 npm start
 ```
 
-## 📝 Configuration
-
-- **Prefix**: The prefix for the bot commands
-- **Owner ID**: The ID of the bot owner
-- **Client ID**: The ID of the bot client
-- **Guild ID**: The ID of the server where the bot will be used
-- **Search Engine**: The search engine to use for searching songs
-- **Max Playlist Size**: The maximum size of a playlist
-- **Max Queue Size**: The maximum size of the queue
-- **Bot Status**: The status of the bot
-- **Bot Activity**: The activity of the bot
-- **Lavalink URL**: The URL of the Lavalink server
-- **Lavalink Auth**: The password for the Lavalink server
-- **Lavalink Name**: The name of the Lavalink server
-- **Lavalink Secure**: Set to `false` for secure Lavalink
-- **Bot Activity Type**: The type of activity for the bot
-
-
 ## 📜 Contributing
 
 Thank you for your interest in contributing to Teal Music! Here are some guidelines to follow when contributing:
