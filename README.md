@@ -1,5 +1,3 @@
-<center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=WaveMusic&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
-
 [![Version][version-shield]](version-url)
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -69,9 +67,6 @@
 
 [LavaSrc]: https://github.com/TopiSenpai/LavaSrc
 [skybot-lavalink-plugin]: https://github.com/DuncteBot/skybot-lavalink-plugin
-
-
-### **Need Help with plugins?** Join our [Discord Server](https://discord.gg/random-cafe-808424540177825875) and ask for help in the `#support` channel.
 
 ## 🔧 Requirements
 
@@ -159,6 +154,8 @@ Distributed under the GPL-3.0 license. See ![LICENSE](https://img.shields.io/git
 ## 👥 Contributors
 
 Thanks goes to these wonderful people :
+https://github.com/divyanshxd
+https://github.com/officialpiyush
 
 <a href="https://github.com/teal-discord/tealmusic-public/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=teal-discord/tealmusic-public" />
