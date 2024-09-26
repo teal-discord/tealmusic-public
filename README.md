@@ -132,6 +132,7 @@ Distributed under the GPL-3.0 license. See ![LICENSE](https://img.shields.io/git
 Thanks goes to these wonderful people :
 https://github.com/divyanshxd
 https://github.com/officialpiyush
+https://github.com/dawgcodes
 
 <a href="https://github.com/teal-discord/tealmusic-public/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=teal-discord/tealmusic-public" />
